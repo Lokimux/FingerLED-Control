@@ -49,7 +49,7 @@ This project combines Python and Arduino to control five LEDs based on finger co
     ```
 
 3. **Upload the Arduino code**:
-    - Open `arduino_code.ino` in the Arduino IDE.
+    - Open `arduino board code.ino` in the Arduino IDE.
     - Select your board and port.
     - Upload the code to your Arduino.
 
@@ -57,7 +57,7 @@ This project combines Python and Arduino to control five LEDs based on finger co
     - Connect the Arduino to your computer.
     - Run the Python script:
     ```bash
-    python finger_counting.py
+    main.py
     ```
 
 ## How It Works

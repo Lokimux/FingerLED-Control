@@ -17,9 +17,10 @@ This project combines Python and Arduino to control five LEDs based on finger co
 - **Webcam** (for finger detection)
 
 ## Circuit Diagram
-![Circuit Diagram](FingerLED-Control
-/FingerLED Control 1.png
-)  <!-- Include your circuit diagram here if you have one -->
+
+  <p>
+<img src="https://github.com/Lokimux/FingerLED-Control/blob/main/FingerLED%20Control%201.png" />
+</p><!-- Include your circuit diagram here if you have one -->
 
 ## Connections
 - **LED 1**: Anode to pin 2 on Arduino, cathode to GND through a 220Ω resistor.
